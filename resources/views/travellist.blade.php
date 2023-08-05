@@ -18,5 +18,6 @@
                 <li>{{ $place->Name }}</li>
           @endforeach
 	</ul>
+    <footer>It is footer</footer>
 </body>
 </html>
